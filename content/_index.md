@@ -1,13 +1,13 @@
 ---
 title: 'Homepage'
-meta_title: 'Hugo Serif Theme'
-description: "Serif is a modern business theme for Hugo."
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true # makes the image use css position: absolute; so it looks "offset". It's a visual effect that might not always look good depending on the image you use.
-intro_image_absolute_offset: "auto auto -100px -80px" # used to tweak the positioning of the absolute image if enabled above
+meta_title: 'AKS Tech Consulting'
+description: "AKS Tech Consulting helps companies focus on what matters most. PMO leadership, large initiative delivery, and AI integration services."
+intro_image: "images/illustrations/team.svg"
+intro_image_absolute: true
+intro_image_offset: "auto auto -100px -80px"
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Hugo Business Theme.
+# Helping companies focus on what matters most.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+AKS Tech Consulting provides modern PMO leadership to help organizations turn scattered priorities into focused execution. We stand up PMOs, lead major initiatives, and integrate AI to help your teams work smarter.
