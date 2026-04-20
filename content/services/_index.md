@@ -1,11 +1,11 @@
 ---
 title: 'Services'
-description: 'We offer a range of services to help your business'
+description: 'PMO leadership, initiative delivery, and AI integration for modern organizations'
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# Modern PMO services for focused execution
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+AKS Tech Consulting offers four focused practices designed to help your organization deliver what matters most. Whether you're standing up a PMO for the first time, optimizing an existing one, leading a major initiative, or integrating AI, we bring the structure, rigor, and leadership to make it happen.
