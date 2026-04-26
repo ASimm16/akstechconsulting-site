@@ -1,52 +1,28 @@
 ---
 title: 'About'
-date: 2018-02-22T17:01:34+07:00
+meta_title: 'About Andrew Simmons | AKS Tech Consulting'
+description: "Andrew Simmons is the founder of AKS Tech Consulting, with 25+ years of experience building and leading PMOs at PayPal, Venmo, Allstate, and JPMorgan Chase."
+intro_image: "images/andrew-headshot.jpg"
+intro_image_absolute: false
+intro_image_hide_on_mobile: false
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+<img src="/images/andrew-headshot.jpg" alt="Andrew Simmons" style="width: 280px; border-radius: 8px; margin-bottom: 1.5rem;" />
 
-![About Us](/images/smartworks-coworking-cW4lLTavU80-unsplash.jpg)
+## Andrew Simmons, Founder
 
-## Ne verba patulosque numen vix libet
+Andrew Simmons is the founder of AKS Tech Consulting. With more than 25 years of experience in financial services and technology, he has built, led, and scaled Program Management Offices at some of the industry's most demanding organizations — including PayPal, Venmo, Allstate, and JPMorgan Chase.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Most recently, as Director of PMO at Allstate, Andrew leads the HR portfolio, putting in place a Portfolio Management process to ensure the highest priority initiatives were delivered. Prior to that, as Director, Head of Technical Program Management at Venmo (a PayPal company), he ran the PMO supporting Venmo's product, engineering, and compliance portfolios — growing the team to 20+ program managers and overseeing a product line generating over $1B in annual revenue. Earlier at Venmo, he scaled the PMO from 8 to 20 project managers in 18 months to support 150% engineering growth, and led the transition from 2 to 7 product releases per year.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+Andrew's career spans both engineering leadership and program delivery. At Venmo he served on the engineering leadership team, driving security initiatives across application, network, and infrastructure surfaces while managing incidents and outages. At JPMorgan Chase, he built and led teams running 30+ application and infrastructure projects with budgets exceeding $20M.
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+His approach combines technical depth, operational rigor, and a relentless focus on delivering what matters most. He founded AKS Tech Consulting to bring this same discipline — and the playbooks behind it — to organizations building, scaling, or rebuilding their PMO function.
 
-## Postquam tamen
+Andrew holds an MS in Information and Communication Sciences and a BA in Professional English from Ball State University. He is a certified Project Management Professional (PMP) and GIAC Security Essentials (GSEC) holder.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+Today, he works with companies that need to stand up a PMO for the first time, lead a critical initiative across the finish line, or integrate AI into how their teams work.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+He is based in Chicago.
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+![Chicago skyline at dusk](/images/about-chicago-skyline.jpg)
