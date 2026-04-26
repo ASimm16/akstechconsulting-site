@@ -2,10 +2,9 @@
 title: 'Homepage'
 meta_title: 'AKS Tech Consulting'
 description: "AKS Tech Consulting helps companies focus on what matters most. PMO leadership, large initiative delivery, and AI integration services."
-intro_image: "images/illustrations/team.svg"
-intro_image_absolute: true
-intro_image_offset: "auto auto -100px -80px"
-intro_image_hide_on_mobile: true
+intro_image: "images/hero-chicago-river.jpg"
+intro_image_absolute: false
+intro_image_hide_on_mobile: false
 ---
 
 # Helping companies focus on what matters most.
