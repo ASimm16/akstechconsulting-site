@@ -4,6 +4,8 @@ date: 2026-04-19T00:00:00-05:00
 draft: false
 featured: true
 weight: 3
+_build:
+  list: never
 ---
 
 We step in to lead your most complex, cross-functional programs from concept to launch. Whether it's a major product initiative, a platform migration, or a strategic transformation, we bring the leadership, rigor, and accountability to make it succeed.

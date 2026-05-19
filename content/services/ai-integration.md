@@ -3,7 +3,7 @@ title: "AI Integration"
 date: 2026-04-19T00:00:00-05:00
 draft: false
 featured: true
-weight: 4
+weight: 3
 ---
 
 Help your teams work smarter with AI. We identify where AI delivers the biggest returns in your organization, select and implement tools that fit your workflow, and train your teams to use them effectively. From pilot to production, we make AI practical.
