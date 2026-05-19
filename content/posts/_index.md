@@ -4,4 +4,4 @@ description: 'Perspectives on delivery, program management, and building high-pe
 intro_image_hide_on_mobile: true
 ---
 
-Thoughts and perspectives on building high-performing PMOs and the evolving role of technology in program management.
+Perspectives on the future of delivery — how AI is reshaping what teams build, how fast they build it, and what it takes to lead delivery in a world where the rules are changing.
