@@ -1,6 +1,6 @@
 ---
 title: 'Blog'
-description: 'Thoughts on PMOs, Technical Program Management, and Delivery'
+description: 'Perspectives on delivery, program management, and building high-performance organizations'
 intro_image_hide_on_mobile: true
 ---
 

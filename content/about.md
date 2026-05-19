@@ -17,11 +17,11 @@ Most recently, as Director of PMO at Allstate, Andrew leads the HR portfolio, pu
 
 Andrew's career spans both engineering leadership and program delivery. At Venmo he served on the engineering leadership team, driving security initiatives across application, network, and infrastructure surfaces while managing incidents and outages. At JPMorgan Chase, he built and led teams running 30+ application and infrastructure projects with budgets exceeding $20M.
 
-His approach combines technical depth, operational rigor, and a relentless focus on delivering what matters most. He founded AKS Tech Consulting to bring this same discipline — and the playbooks behind it — to organizations building, scaling, or rebuilding their PMO function.
+His approach combines technical depth, operational rigor, and a relentless focus on delivering what matters most. He founded AKS Tech Consulting to bring this same discipline — and the playbooks behind it — to organizations looking to accelerate delivery.
 
 Andrew holds an MS in Information and Communication Sciences and a BA in Professional English from Ball State University. He is a certified Project Management Professional (PMP) and GIAC Security Essentials (GSEC) holder.
 
-Today, he works with companies that need to stand up a PMO for the first time, lead a critical initiative across the finish line, or integrate AI into how their teams work.
+Today, he works with companies that need to stand up or optimize a delivery function, or integrate AI into how their teams work.
 
 He is based in Chicago.
 
