@@ -1,8 +1,10 @@
 ---
 title: "The PMO as Delivery Storyteller"
 date: 2026-05-30
-description: "The skill that separates good project managers..."
+description: "The skill that separates good project managers from great ones."
 draft: false
+---
+
 
 There is a skill that separates good project managers from great ones — and it has nothing to do with spreadsheets, RAID logs, or milestone tracking. It is the ability to tell the story of a program.
 Every initiative generates data. Scope boundaries, benefit projections, capacity requirements, team dependencies, target milestones, key risks, open issues. The raw material is always there. The question is whether a PM can transform that raw material into a coherent narrative that a leader can actually absorb, trust, and act on.
