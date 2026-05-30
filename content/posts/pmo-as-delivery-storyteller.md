@@ -75,7 +75,7 @@ Here is how each PM might open that conversation.
 -----
 
 
-**Stage One — The Incomplete Picture:**
+**Stage One The Incomplete Picture:**
 
 
 > “So we’re planning to renovate the kitchen and both bathrooms. We’ve got a contractor lined up and we’re thinking we’ll start in March. The kitchen scope includes new cabinets, countertops, and appliances. The bathrooms will get new tile and fixtures. We’re estimating about fourteen weeks total. Budget is around $180,000. I think it’s going to look really great when it’s done.”
@@ -87,7 +87,7 @@ This sounds reasonable on the surface. But a sharp homeowner starts asking quest
 -----
 
 
-**Stage Two — Drowning in the Details:**
+**Stage Two Drowning in the Details:**
 
 
 > “OK so I’ve broken this into four workstreams. Workstream one is the kitchen — that covers demolition in week one and two, rough electrical in week three, rough plumbing in week four, cabinet installation starting week six pending delivery confirmation from the supplier, countertop templating in week eight, appliance installation in week ten. Workstream two is bathroom one — demo starts week two overlapping with kitchen demo to optimize contractor scheduling, tile work begins week five, we have a dependency on the vanity lead time which is currently at six weeks from order so we need to confirm that by March 3rd or we push to week eight. Workstream three is bathroom two, similar structure but offset by two weeks due to the single plumber constraint. Workstream four is the foundation — we have a structural engineer assessment booked for week one, and depending on findings we may need a permit which in this county runs four to six weeks. That’s the critical path risk. Budget breakdown: kitchen is $95,000, bathrooms are $42,000 combined, foundation is estimated at $28,000 but that’s pre-assessment so it could move, and we have a 10% contingency sitting at $18,000. Total is $183,000 with contingency, $165,000 without…”
@@ -99,7 +99,7 @@ By this point, the homeowner has heard a lot of words but cannot hold the shape 
 -----
 
 
-**Stage Three — The Storyteller:**
+**Stage Three The Storyteller:**
 
 
 > “Here’s where we stand. We’re renovating the kitchen, both bathrooms, and addressing the foundation — all in one mobilization to keep cost and disruption as low as possible. The work runs fourteen weeks, targeting completion by mid-June. The budget is $183,000, which includes a 10% contingency we expect to need because there’s always some discovery once walls come open.
