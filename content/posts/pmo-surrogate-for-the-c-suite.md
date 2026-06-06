@@ -1,8 +1,9 @@
------
-
-## title: “The PMO as the C-Suite’s Surrogate: The Half of the Role No One Talks About”
+---
+title: "The PMO as the C-Suites Surrogate"
 date: 2026-06-06
 draft: false
+---
+
 
 We spend a lot of energy on one half of the PMO’s job: carrying the story up. Take the raw noise of delivery (the tasks, the dependencies, the slipping dates) and shape it into something a leader can absorb in five minutes. I’ve made the case before that this is a craft, that the best PMs are delivery storytellers rather than data collectors. That work is real, and it matters.
 
